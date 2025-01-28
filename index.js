@@ -4,7 +4,7 @@ const app = express();
 const PORT = 3000;
 
 // Hardcoded version
-const version = '1.0.2';
+const version = '1.0.3';
 
 // Enable CORS for all routes
 app.use(cors());
